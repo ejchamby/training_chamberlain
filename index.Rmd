@@ -9,4 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Analysis Plan
+- [Introduction](practice_rmd_2.html)
+- Data CLeaning
+- Gap filling
+- Linear models
+- Data Visualization
